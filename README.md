@@ -3,14 +3,7 @@ Please complete the python microproject first [https://classroom.github.com/a/2C
 # Main Project Python
 Write a Python program that collects, summarizes, and e-mails all the programming assignments for this course.
 
-You should begin by organizing your assignments in a folder structure which will make this easier. I recommend something like:
-
-* csc344
-  - a1
-  - a2
-  - a3
-  - a4
-  - a5
+You should begin by organizing your assignments in the [csc344](csc344) folder.
     
 Assuming the programs are in subdirectories a1, a2, …, a5 of directory csc344, your program should:
 - create a summary_ai.html (replacing i with the assignment number) file for each ai, which contains (in reasonably formatted, valid HTML):
